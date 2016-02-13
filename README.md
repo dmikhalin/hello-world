@@ -1,2 +1,5 @@
 # hello-world
-A simple Hello world application.
+
+Hello everybody!
+
+I'm a school Computer Science teacher, Dmitry Mikhalin.
